@@ -1,3 +1,5 @@
+(READ IT AS TEXT, not preview)
+
 Hello guys, I am a little bit crazy a computer scientist and I love to play with SD. Dealing with a computation problem and limitation, I was testing some approach to allow me to work with high tokens density exchange without having to "buy" more memory or a incredible GPU (maybe tranfering it to a cloud vendor easily). This approach is an easy way, based in our current availability solutions in the market, I would say also a natural tendency, to turn easier to deploy AI solutions. 
 
 The idea é allow anyone to deploy the high processing part to a GPU vendor or UM vendor, without changing entire infrastruture from the current cloud or on-premise server. 
